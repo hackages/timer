@@ -1,0 +1,27 @@
+h1,
+h3 {
+  margin: 40px;
+  color: #0147a7;
+}
+
+input,
+button {
+  border: 1px solid #0147a7;
+  border-radius: 2px;
+  width: 300px;
+  height: 25px;
+}
+
+button,
+a {
+  margin-top: 1%;
+  margin-right: 2px;
+  margin-left: 20px;
+  width: 100px;
+}
+
+hr {
+  border: 1px solid #0147a7;
+  width: 25%;
+  float: left;
+}
